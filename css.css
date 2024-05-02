@@ -166,3 +166,15 @@ footer {
     margin: 20px;
     background-color: rgba(0, 22, 146, 0.445);
 }
+fieldset{
+    display: flex;
+    flex-wrap: wrap;
+}
+.css,.html,.js,.sql,.php,.express{
+    width: 33%;
+}
+.programmation img{
+width: 100px;
+height: 100px;
+margin: 8px;
+}
