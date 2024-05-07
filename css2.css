@@ -14,9 +14,9 @@
 }
 
 .container {
-    /* background-image: url("background6.jpg"); */
     padding: 15px 9%;
     padding-bottom: 100px;
+    margin-bottom: 20px;
 }
 
 .container .heading{
@@ -54,7 +54,7 @@ font-size: 50px;
 .container .box-container .box p{
     color: #777;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 2;
 }
 
 .container .box-container .box .btn{
@@ -133,9 +133,8 @@ footer {
     background-color: #022b42;
     text-align: center;
     padding: 8px 0;
+   
 }
-
-
 .presentation {
     display: flex;
     justify-content: left;
